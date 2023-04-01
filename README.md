@@ -10,3 +10,9 @@ I am a Fullstack web developer and former Civil engineer. I'm fascinated by solv
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mahdi-ghorbani619/)
+
+<hr />
+
+
+"... true nobility is being superior to your former self."
+-Ernest Hemingway
