@@ -14,5 +14,5 @@ I am a Fullstack web developer and former Civil engineer. I'm fascinated by solv
 <hr />
 
 
-"... true nobility is being superior to your former self."
--Ernest Hemingway
+>... true nobility is being superior to your former self.
+> -Ernest Hemingway
