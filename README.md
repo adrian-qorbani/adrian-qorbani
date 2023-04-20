@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Hi, I'm Adrian
 ⚡ I'm a Fullstack Developer and former Civil Engineer<br>🔭 I’m currently improving my JavaScript (Node.js) skills<br>🌱 I’m actively learning new technologies<br>💬 You can ask me about my projects, I'll be happy to help ;)
 
 
