@@ -12,6 +12,6 @@ Backend:<br>
 <!-- My OS:<br>
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
-# ☎ Contact:
+# ☎ Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-qorbani-9696)
