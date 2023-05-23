@@ -1,6 +1,8 @@
 # 💫 Hi, I'm Adrian
-⚡ I'm a 27-year-old Fullstack Developer and former Civil Engineer<br>🌱 A devotee to <strong>life-long learning</strong><br>🔭 I’m currently improving my JavaScript (Node.js) skills<br>
-💎 Coding is not just my job, it's my craft. Writing clean and scalable code, is my motto. 
+⚡ I'm a 26-year-old Fullstack Developer and former Civil Engineer
+<br>🔭 I’m currently improving my JavaScript (Node.js) skills
+<br>🌱 <strong>Life-long learning</strong> devotee
+<br>💎 Developing Software isn't just my job, it's my craft and passion.
 # 💻 Tech Stack
 
 Frontend:<br> 
