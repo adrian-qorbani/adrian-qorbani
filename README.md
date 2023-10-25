@@ -1,2 +1,2 @@
-# 💫 Hi, I'm Adrian
-Former Civil and Structural engineer and aspiring Fullstack Developer.
+# 💫 Hi, I'm Maddy (they also call me 'Adrian')
+Former Civil and Structural engineer, current Computer-Software engineering student and Fullstack Website Developer.
