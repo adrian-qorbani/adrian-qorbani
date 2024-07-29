@@ -18,7 +18,3 @@ I study Computer-Software engineering at Azad University and finished fullstack 
 
 Want to get in touch? Feel free to reach out to me via [mahdighorbani96io@gmail.com]. I'm always open to discussing new opportunities, collaborating on projects, or just connecting with fellow tech and coding enthusiasts!
 
-## My Website
-
-I write articles about JavaScript and web technologies as a hobby. Dive into my journey at [CoderTrek](https://www.codertrek.com/).
-
