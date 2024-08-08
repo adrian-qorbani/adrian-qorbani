@@ -1,12 +1,12 @@
 # 💫 Hi, I'm Mahdi
 
-I'm a dedicated fullstack developer (back-end focused) with +1 year of experience. With a strong grasp on computer science principles and hands on  with various programming languages and frameworks, I am proficient in designing scalable systems and optimizing application performance. 🚀
+I'm a web and software developer with expertise in full-stack technologies, specialized in JAMstack and PERN. My passion lies in crafting seamless digital experiences across devices and solving complex problems with innovative solutions, delivering efficient, scalable web applications and optimizing online presence of my customers 🚀
 
 ## Skills & Technologies
 
 - **Languages:** Proficient in [JavaScript (+ TypeScript) and Python].
 - **Frameworks & Libraries:** Experienced with [Express, NestJS, Fastify and Flask].
-- **Databases:** Skilled in working with both SQL (PostgreSQL) and NoSQL (MongoDB) databases.
+- **Databases:** Skilled in working with SQL (PostgreSQL) and NoSQL (MongoDB) databases.
 - **Tools:** Proficient in Git version control systems, containerization with Docker, and cloud platforms including AWS and Azure.
 
 ## Education
