@@ -4,10 +4,10 @@ I'm a web and software developer with expertise in full-stack technologies, spec
 
 ## Skills & Technologies
 
-- **Languages:** Proficient in [JavaScript (+ TypeScript) and Python].
-- **Frameworks & Libraries:** Express, NestJS and Fastify for backend. NextJS for full stack development.
-- **Databases:** Skilled in working with SQL (PostgreSQL) and NoSQL (MongoDB) databases.
-- **Tools:** Proficient in Git version control systems, containerization with Docker, and cloud platforms including AWS and Azure.
+- **Languages:** Proficient in [JavaScript (+ TypeScript) and Python]
+- **Frameworks & Libraries:** Express, NestJS, NexJS and Fastify
+- **Databases:** Skilled in working with SQL (PostgreSQL) and NoSQL (MongoDB) databases
+- **Tools:** Proficient in Git version control systems, containerization with Docker, and cloud platforms including AWS and Azure
 
 ## Education
 
