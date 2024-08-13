@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Mahdi
 
-I'm a web and software developer with expertise in full-stack technologies, specialized in JAMstack and PERN. My passion lies in crafting seamless digital experiences across devices and solving complex problems with innovative solutions, delivering efficient, scalable web applications and optimizing online presence of my customers 🚀
+I'm a web and software developer with expertise in full-stack technologies. My passion lies in crafting seamless digital experiences across devices and solving complex problems with innovative solutions, delivering efficient, scalable web applications and optimizing online presence of my customers 🚀
 
 ## Skills & Technologies
 
