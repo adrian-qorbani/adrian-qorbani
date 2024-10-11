@@ -1,12 +1,12 @@
 # 💫 Hi, I'm Mahdi
 
-I'm a web and software developer with expertise in full-stack technologies. My passion lies in crafting seamless digital experiences across devices and solving complex problems with innovative solutions, delivering efficient, scalable web applications and optimizing online presence of my customers 🚀
+I'm a web and software developer with expertise in full-stack technologies (backend focused). My passion lies in crafting seamless digital experiences across devices and solving complex problems with innovative solutions, delivering efficient, scalable web applications and optimizing online presence of my customers 🚀
 
 ## Skills & Technologies
 
-- **Languages:** Proficient in [JavaScript (+ TypeScript) and Python]
-- **Frameworks & Libraries (Frontend):** React (+NextJS), Vue.js
-- **Frameworks & Libraries (Backend):** Express, NestJS and Fastify
+- **Languages:** Proficient in TypeScript (+ JavaScript)
+- **Frameworks & Libraries (Frontend):** React
+- **Frameworks & Libraries (Backend):** Node.js: Express.js, NestJS and familiar with Fastify
 - **Databases:** Skilled in working with SQL (PostgreSQL) and NoSQL (MongoDB) databases
 - **Tools:** Proficient in Git version control systems, containerization with Docker, and cloud platforms including AWS and Azure
 
