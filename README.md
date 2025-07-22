@@ -17,5 +17,5 @@ I study Computer-Software engineering at Azad University and finished fullstack 
 
 ## Contact Me
 
-Want to get in touch? Feel free to reach out to me via [mahdighorbani96io@gmail.com]. I'm always open to discussing new opportunities, collaborating on projects, or just connecting with fellow tech and coding enthusiasts!
+Want to get in touch? Feel free to reach out to me via [mahdighorbani96io@gmail.com]. It's my only email. I'm always open to discussing new opportunities, collaborating on projects, or just connecting with fellow tech and coding enthusiasts!
 
