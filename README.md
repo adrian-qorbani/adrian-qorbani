@@ -14,6 +14,14 @@ I'm a web and software developer with expertise in full-stack technologies (back
 
 I study Computer-Software engineering at Azad University and finished fullstack web development and other supplemental courses with University of Helsinki's FullstackOpen online program. You can find my certification projects in [this repo](https://github.com/adrian-qorbani/fullstackopen).
 
+## Certifications
+- [Fullstack Development](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/3a1d324b519efa70cb7d57b764760a97)
+- [GraphQL API Development](https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/1a4674b04036d018449526b3b2fc2d05)
+- [Relational Databases](https://studies.cs.helsinki.fi/stats/api/certificate/fs-psql/en/09cf2eb1746a23ec0e24372d08c78713)
+- [TypeScript Development](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/9668fa2e26445dc10514ac25c5aa3c9e)
+- [CI/CD](https://studies.cs.helsinki.fi/stats/api/certificate/fs-cicd/en/e95766025800e561352846880aac9bc8)
+- [Containerization with Docker ](https://studies.cs.helsinki.fi/stats/api/certificate/fs-containers/en/aa5613a52950c90a57f9bf350fccab44)
+
 
 ## Contact Me
 
