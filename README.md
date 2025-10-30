@@ -14,9 +14,6 @@ Currently, I'm deepening my expertise in **Go**, **Kubernetes**, and **distribut
 - **Node.js:** NestJS, and Express.js
 - **API Design:** RESTful APIs, GraphQL, gRPC (learning), OpenAPI  
 
-### 🖥️ Frontend (for full-stack integration)
-- **React** — SPA development, component-based architecture, hooks, and state management  
-
 ### 🗄️ Databases
 - **PostgreSQL** (SQL) and **MongoDB** (NoSQL)  
 - Query optimization, migrations, and data modeling  
@@ -30,6 +27,9 @@ Currently, I'm deepening my expertise in **Go**, **Kubernetes**, and **distribut
 ### 📈 Observability & Monitoring
 - Metrics via `expvar`, `statsviz`, `pprof`, and structured logging  
 - Debugging and profiling Go services safely in Kubernetes environments  
+
+### 🖥️ Frontend
+- **React** and **Vite** for full-stack integration
 
 ## 📘 Education
 
