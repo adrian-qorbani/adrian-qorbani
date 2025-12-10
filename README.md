@@ -3,20 +3,20 @@
 I'm a **backend-focused software engineer** passionate about building **reliable, scalable, and production-grade systems**.  
 Currently, I'm deepening my expertise in **Go**, **Kubernetes**, and **distributed systems** — moving from full-stack development toward **backend architecture and system design**.
 
-## ⚙️ Technical Skills
+## ⚙️ Skills
 
-### 🧠 Core Languages
-- **Go** — Backend development, REST APIs, concurrency patterns, and Kubernetes microservices  
-- **TypeScript / JavaScript** — Web development, tooling, and strong typing with modern frameworks  
+### 🧠 Languages
+- **Go**
+- **TypeScript / JavaScript**
 
-### 🔙 Backend Frameworks & Tools
-- **Go:** Standard Library, `net/http`, Gorilla Mux, `expvar`, `pprof`, and Prometheus metrics  
+### 🔙 Backend Frameworks
+- **Go:** Standard Library, `net/http` with best practice extensions
 - **Node.js:** NestJS, and Express.js
 - **API Design:** RESTful APIs, GraphQL, gRPC (learning), OpenAPI  
 
 ### 🗄️ Databases
 - **PostgreSQL** (SQL) and **MongoDB** (NoSQL)  
-- Query optimization, migrations, and data modeling  
+- Query optimization, migrations, and data modeling
 
 ### 🐳 DevOps & Cloud
 - **Docker** and **Docker Compose** for containerization  
@@ -24,18 +24,16 @@ Currently, I'm deepening my expertise in **Go**, **Kubernetes**, and **distribut
 - **CI/CD Pipelines** using GitHub Actions  
 - Basic experience with **AWS** and **Azure**  
 
-### 📈 Observability & Monitoring
-- Metrics via `expvar`, `statsviz`, `pprof`, and structured logging  
-- Debugging and profiling Go services safely in Kubernetes environments  
-
 ### 🖥️ Frontend
 - **React** and **Vite** for full-stack integration
+
+## 🧩 My Projects
+- [atlas-service](https://github.com/adrian-qorbani/atlas-service): a production-grade web service written in Go, designed to explore distributed system design principles through a modular, domain-driven data-oriented microservice design
+- [rock-connect](https://github.com/adrian-qorbani/rock-connect): a fullstack social media platform built with modern technologies and containerized for easy deployment.
 
 ## 📘 Education
 
 🎓 **B.Sc. in Computer Software Engineering** – Azad University (5th Semester) 
-
-🎯 Focus: Software design, operating systems, and distributed backend systems  
 
 🧩 **Supplementary Training:**  
 Completed the [University of Helsinki’s Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/3a1d324b519efa70cb7d57b764760a97) program, plus certifications in:
@@ -53,12 +51,10 @@ Completed the [University of Helsinki’s Full Stack Open](https://studies.cs.he
 - Building **production-ready microservices** with Kubernetes  
 - Designing **system architecture diagrams** for distributed systems  
 - Improving **deployment automation** and observability practices  
+- learning and applying best mental models  
 
 ## 📫 Contact
 
 📧 **Email:** [mahdighorbani96io@gmail.com](mailto:mahdighorbani96io@gmail.com)  
-💼 **GitHub:** [github.com/adrian-qorbani](https://github.com/adrian-qorbani)  
 
 I'm always open to conversations about backend architecture, Go development, or collaborating on open-source and distributed systems projects.
-
-🧩 *"Software that scales is not just code — it’s design, discipline, and clarity."*
